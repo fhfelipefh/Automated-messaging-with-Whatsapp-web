@@ -25,3 +25,5 @@
    deve
    Funcionar
   ``` 
+- Execute o arquivo Python W_bot.py e siga as opções de acordo com as indicações do terminal.
+- Espere uma nova janela se abrir e leia o QRCODE em até 20s, após isso basta esperar a mágica acontecer. 
