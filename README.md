@@ -9,5 +9,7 @@
 # pip install webdriver_manager
 
 ```
+<hr>
+
 ### Como enviar sua primeira mensagem: 
 
