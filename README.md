@@ -11,5 +11,17 @@
 ```
 <hr>
 
-### Como enviar sua primeira mensagem: 
-- Coloque um contato por linha no arquivo "contatos.txt"
+### Como enviar sua primeira mensagem: :envelope:
+<small> O idioma dos arquivos de texto é limitado ao inglês e "^","~","´" podem não funcionar corretamente em nomes de contato ou mensagens. </small> 
+
+- Coloque um nome de contato e/ou grupo por linha no arquivo "contatos.txt"
+- Deixe sua mensagem no arquivo "msg.txt" , se você quiser uma mensagem como:
+ ``` oi! Este Teste deve Funcionar ``` 
+  Digite com a seguinte formatação no arquivo: 
+  ```
+  oi!
+   Este 
+   Teste
+   deve
+   Funcionar
+  ``` 
