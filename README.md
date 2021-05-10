@@ -12,4 +12,4 @@
 <hr>
 
 ### Como enviar sua primeira mensagem: 
-
+- Coloque um contato por linha no arquivo "contatos.txt"
