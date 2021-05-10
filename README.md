@@ -17,6 +17,7 @@
 - Coloque um nome de contato e/ou grupo por linha no arquivo "contatos.txt"
 - Deixe sua mensagem no arquivo "msg.txt" , se você quiser uma mensagem como:
  ``` oi! Este Teste deve Funcionar ``` 
+ 
   Digite com a seguinte formatação no arquivo: 
   ```
   oi!
